@@ -1,0 +1,16 @@
+{
+  "id": "devin-nights-free-tokens-character",
+  "title": "Devin Night's Free Tokens (Character)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Devin Night",
+      "url": "https://immortalnights.com/",
+      "flags": {}
+    }
+  ]
+}
